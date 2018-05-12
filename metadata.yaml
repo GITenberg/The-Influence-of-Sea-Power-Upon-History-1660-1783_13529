@@ -1,0 +1,44 @@
+_repo: The-Influence-of-Sea-Power-Upon-History-1660-1783_13529
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahan, A. T. (Alfred Thayer)
+    aliases:
+    - Mahan, Alfred Thayer
+    - Mahan, Alfred T.
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5116'
+    url: http://www.gutenberg.org/2009/agents/5116
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+description: '"Mahan uses some detail and technical language to demonstrate particular
+  naval engagements from 1660-1783, but apart from being just a lecturer on naval
+  warfare and an analyst on tactics, he demonstrates how the use of the general navies,
+  or the strategy of using a strong navy to protect the fleet of an aggressive merchant
+  marine, is the single most important root cause of advancing economic and therefore
+  military prosperity in any nation. Using Great Britain as his main example, he also
+  details the Dutch fleets to demonstrate their reason for becoming a European superpower
+  in their own right. Later he identifies the presence of the French navy, apart from
+  any material success in its engagements, as one of the determining reasons why America
+  had a chance to win its independence. Finally, as he hints of the supreme commercial
+  and military importance of the proposed (Panama) canal, against the declining state
+  of the American navy and the paltry condition of its merchant fleet, he urges that
+  Americas prosperity if not survival depends on the powerful revival of its sea power."
+  - Barnes & Nobel.'
+gutenberg_issued: '2004-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea-power'
+- !lcsh 'Naval history, Modern'
+- !lcc 'D'
+title: The Influence of Sea Power Upon History, 1660-1783
+url: http://www.gutenberg.org/ebooks/13529
